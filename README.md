@@ -1,4 +1,4 @@
 python-rpg
 ==========
 
-A game written in python for an assignment in my first year
+This is a game I wrote in python as an assignment for my first course in Computer Science.
